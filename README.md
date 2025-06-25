@@ -1,6 +1,6 @@
 # Sarah Horan’s Portfolio Site
 
-This is my personal portfolio website, built using Jekyll and hosted with GitHub Pages. It includes my projects, blog, and co-op experience.
+This is my personal portfolio website, built using Jekyll and hosted with GitHub Pages. It includes my projects, blog, and co-op experience. Thanks for visiting!
 
 Visit the live site: [https://sarahhoran.github.io](https://sarahhoran.github.io)
 
